@@ -46,7 +46,7 @@
         <!--Dependencies -->
         <barcode4jVersion>2.1</barcode4jVersion>
         <barbecueVersion>1.5-beta1</barbecueVersion>
-        <batikbridgeVersion>1.12</batikbridgeVersion>
+        <batikbridgeVersion>1.15</batikbridgeVersion>
         <commonslang3Version>3.11</commonslang3Version>
         <groovyVersion>2.4.19</groovyVersion>
         <hsqldbVersion>2.5.1</hsqldbVersion>
